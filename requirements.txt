@@ -1,0 +1,15 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+joblib
+
+# Web framework and server
+fastapi
+uvicorn 
