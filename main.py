@@ -314,7 +314,7 @@ def get_test_form():
                         </select>
                     </div>
                 </div>
-                <button type="submit">🔮 Predict House Price</button>
+                <button type="submit">Predict House Price</button>
             </form>
             <div id="result" class="result"></div>
         </div>
